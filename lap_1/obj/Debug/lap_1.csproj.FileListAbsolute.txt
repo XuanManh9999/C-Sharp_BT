@@ -1,0 +1,8 @@
+D:\Học\C#_Cơ_Bản\lap_1\bin\Debug\lap_1.exe.config
+D:\Học\C#_Cơ_Bản\lap_1\bin\Debug\lap_1.exe
+D:\Học\C#_Cơ_Bản\lap_1\bin\Debug\lap_1.pdb
+D:\Học\C#_Cơ_Bản\lap_1\obj\Debug\lap_1.csproj.AssemblyReference.cache
+D:\Học\C#_Cơ_Bản\lap_1\obj\Debug\lap_1.csproj.SuggestedBindingRedirects.cache
+D:\Học\C#_Cơ_Bản\lap_1\obj\Debug\lap_1.csproj.CoreCompileInputs.cache
+D:\Học\C#_Cơ_Bản\lap_1\obj\Debug\lap_1.exe
+D:\Học\C#_Cơ_Bản\lap_1\obj\Debug\lap_1.pdb
