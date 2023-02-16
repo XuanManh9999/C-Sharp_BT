@@ -1,0 +1,11 @@
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\bin\Debug\Liet_ke_So_Nguyen_to.exe.config
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\bin\Debug\Liet_ke_So_Nguyen_to.exe
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\bin\Debug\Liet_ke_So_Nguyen_to.pdb
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\obj\Debug\Liet_ke_So_Nguyen_to.csproj.AssemblyReference.cache
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\obj\Debug\Liet_ke_So_Nguyen_to.csproj.SuggestedBindingRedirects.cache
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\obj\Debug\Liet_ke_So_Nguyen_to.Form1.resources
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\obj\Debug\Liet_ke_So_Nguyen_to.Properties.Resources.resources
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\obj\Debug\Liet_ke_So_Nguyen_to.csproj.GenerateResource.cache
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\obj\Debug\Liet_ke_So_Nguyen_to.csproj.CoreCompileInputs.cache
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\obj\Debug\Liet_ke_So_Nguyen_to.exe
+D:\Học\C#_Cơ_Bản\Liet_ke_So_Nguyen_to\obj\Debug\Liet_ke_So_Nguyen_to.pdb
