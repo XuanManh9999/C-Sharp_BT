@@ -17,14 +17,14 @@ namespace lap_5
                 this.tuSo = tuSo;
                 this.mauSo = mauSo;
             }
-            public static PhanSo operator +(PhanSo ps1, PhanSo ps2)
+            public static PhanSo operator + (PhanSo ps1, PhanSo ps2)
             {
                 int tuSoMoi = ps1.tuSo * ps2.mauSo + ps2.tuSo * ps1.mauSo;
                 int mauSoMoi = ps1.mauSo * ps2.mauSo;
                 return new PhanSo(tuSoMoi, mauSoMoi);
             }
 
-            public static PhanSo operator -(PhanSo ps1, PhanSo ps2)
+            public static PhanSo operator - (PhanSo ps1, PhanSo ps2)
             {
                 int tuSoMoi = ps1.tuSo * ps2.mauSo - ps2.tuSo * ps1.mauSo;
                 int mauSoMoi = ps1.mauSo * ps2.mauSo;

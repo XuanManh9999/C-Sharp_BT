@@ -1,0 +1,12 @@
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\bin\Debug\lap_7_bai_2.exe.config
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\bin\Debug\lap_7_bai_2.exe
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\bin\Debug\lap_7_bai_2.pdb
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.csproj.AssemblyReference.cache
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.csproj.SuggestedBindingRedirects.cache
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.Form1.resources
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.Properties.Resources.resources
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.csproj.GenerateResource.cache
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.csproj.CoreCompileInputs.cache
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.exe
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.pdb
+D:\_C#_\_Buoi_Hoc_\lap_7_bai_2\obj\Debug\lap_7_bai_2.HienThi.resources
