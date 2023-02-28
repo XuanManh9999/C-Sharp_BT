@@ -1,0 +1,9 @@
+CREATE DATABASE NUMBERS;
+USE NUMBERS
+
+CREATE TABLE NUMBER (
+	SO1 INT,
+	SO2 INT,
+)
+insert into NUMBER(SO1, SO2) values (1, 2);
+select * from NUMBER
