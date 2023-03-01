@@ -1,0 +1,12 @@
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\bin\Debug\lab_8_bai_2.exe.config
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\bin\Debug\lab_8_bai_2.exe
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\bin\Debug\lab_8_bai_2.pdb
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.csproj.AssemblyReference.cache
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.csproj.SuggestedBindingRedirects.cache
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.Form1.resources
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.Properties.Resources.resources
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.csproj.GenerateResource.cache
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.csproj.CoreCompileInputs.cache
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.exe
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.pdb
+D:\Học\C#_Cơ_Bản\lab_8_bai_2\obj\Debug\lab_8_bai_2.Form2.resources
