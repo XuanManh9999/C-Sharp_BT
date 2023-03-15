@@ -1,0 +1,17 @@
+D:\Học\C#_Cơ_Bản\Lab_9\bin\Debug\Lab_9.exe.config
+D:\Học\C#_Cơ_Bản\Lab_9\bin\Debug\Lab_9.exe
+D:\Học\C#_Cơ_Bản\Lab_9\bin\Debug\Lab_9.pdb
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.csproj.AssemblyReference.cache
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.csproj.SuggestedBindingRedirects.cache
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.Properties.Resources.resources
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.formThemSuaXoa.resources
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.exe
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.pdb
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.FormThem.resources
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.Nhom1_Sua.resources
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.Nhom_1_Xoa.resources
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.FormTrangChu.resources
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.Nhom_2_Thu_Tuc_Truy_Van.resources
+D:\Học\C#_Cơ_Bản\Lab_9\obj\Debug\Lab_9.Form_QLNH.resources
